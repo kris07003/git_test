@@ -1,1 +1,1 @@
-"Hello Odin!"
+"hello, odin project! thanks for making this course"
